@@ -1,0 +1,11 @@
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\TheBrewAuthSIIMS.exe
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\obj\Debug\netcoreapp3.0\TheBrewAuthSIIMS.csprojAssemblyReference.cache
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\obj\Debug\netcoreapp3.0\TheBrewAuthSIIMS.AssemblyInfoInputs.cache
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\obj\Debug\netcoreapp3.0\TheBrewAuthSIIMS.AssemblyInfo.cs
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\MySql.Data.dll
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\obj\Debug\netcoreapp3.0\TheBrewAuthSIIMS.csproj.CopyComplete
