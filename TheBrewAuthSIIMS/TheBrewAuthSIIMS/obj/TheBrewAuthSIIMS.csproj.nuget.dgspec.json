@@ -37,6 +37,20 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "MySql.Data.Entity": {
+              "target": "Package",
+              "version": "[6.10.9, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.59.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

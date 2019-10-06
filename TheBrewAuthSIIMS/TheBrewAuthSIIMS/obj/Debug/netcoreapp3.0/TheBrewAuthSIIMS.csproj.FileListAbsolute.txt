@@ -9,3 +9,4 @@ C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAut
 C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
 C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
 C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\obj\Debug\netcoreapp3.0\TheBrewAuthSIIMS.csproj.CopyComplete
+C:\Users\bassanio.jr.v.saba\source\repos\TheBrewAuth\TheBrewAuthSIIMS\TheBrewAuthSIIMS\bin\Debug\netcoreapp3.0\MySqlConnector.dll
